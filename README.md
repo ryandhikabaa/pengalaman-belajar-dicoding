@@ -1,7 +1,6 @@
-Pengalaman Belajar di Dicoding
+# Pengalaman Belajar di Dicoding
 
-18 Februari 2024
-
+**18 Februari 2024**<br>
 Kelas - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)
 * Memahami Kebutuhan Aplikasi
 * Perencanaan Modifikasi Aplikasi.
